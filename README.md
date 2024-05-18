@@ -1,3 +1,5 @@
+MetaMint NFT Marketplace
+
 Welcome to the MetaMint NFT Marketplace repository! This project is a decentralized NFT marketplace built using modern web technologies and blockchain infrastructure. The platform allows users to mint, buy, and sell NFTs with enhanced security and user experience, leveraging the Ethereum blockchain for transaction processing and smart contracts for operations governance.
 
 Table of Contents
